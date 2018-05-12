@@ -1,0 +1,27 @@
+_repo: Life-of-Kit-CarsonThe-Great-Western-Hunter-and-Guide_41864
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41864-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Burdett, Charles
+    birthdate: 1815
+    gutenberg_agent_id: '41405'
+    url: http://www.gutenberg.org/2009/agents/41405
+description: ''
+gutenberg_issued: '2013-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41864'
+  lccn: '21020800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carson Kit, 1809-1868'
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+title: Life of Kit Carson, the Great Western Hunter and Guide
+url: http://www.gutenberg.org/ebooks/41864
